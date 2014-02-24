@@ -1,0 +1,63 @@
+2014-02-24 16:41:50 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /myapp/js/jquery.js
+Stack Trace:
+#0 /var/www/html/cakePHP/myapp/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-24 16:42:35 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /myapp/js/jquery.js
+Stack Trace:
+#0 /var/www/html/cakePHP/myapp/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-24 16:47:11 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /myapp/js/jquery.js
+Stack Trace:
+#0 /var/www/html/cakePHP/myapp/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-24 16:47:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /myapp/js/jquery.js
+Stack Trace:
+#0 /var/www/html/cakePHP/myapp/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-24 16:47:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /myapp/js/jquery.js
+Stack Trace:
+#0 /var/www/html/cakePHP/myapp/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-24 16:48:14 Error: [MissingControllerException] Controller class WebrootController could not be found.
+Exception Attributes: array (
+  'class' => 'WebrootController',
+  'plugin' => NULL,
+)
+Request URL: /myapp/webroot/jquery-2.1.0.js
+Stack Trace:
+#0 /var/www/html/cakePHP/myapp/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-02-24 16:48:14 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /myapp/js/jquery.js
+Stack Trace:
+#0 /var/www/html/cakePHP/myapp/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
